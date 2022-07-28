@@ -4,7 +4,7 @@
 
 ### TechStack Used : JavaScript & Nodejs
 
-[ Quiz Link ](https://www.github.com )
+[ Quiz Link ]( https://replit.com/@AritraChowdhury/Kaun-Banega-Crorepati?embed=1&output=1)
 
 _Hope You Would Enjoy the Game !!!_
 
